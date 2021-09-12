@@ -1,9 +1,10 @@
 ### Hi there, I'm Saajan Raj Pandey 👋
 
-
-    mailbox Email me: saajanpandey345@gmail.com
-
-www.linkedin.com/in/saajan-raj-pandey-a01882192
+<p align="center">
+	<a href="https://github.com/saajanpandey"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="www.linkedin.com/in/saajan-raj-pandey-a01882192"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+    <a href
+</p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
