@@ -1,6 +1,6 @@
 ### Hi there, I'm Saajan Raj Pandey 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/saajan-raj-pandey-a01882192)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/saajanrajpandey)
 
 **Talking about Personal Stuffs:**
 
