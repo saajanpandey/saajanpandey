@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/saajanrajpandey)
 
+<img src="https://komarev.com/ghpvc/?username=saajanpandey&style=flat-square&color=blue" alt=""/>
+
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
